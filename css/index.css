@@ -260,7 +260,7 @@ width: 25%;
         display: flex;
         justify-content: center;
     }
-    .box1{
+    .box{
         width: 100%;
     }
     .box2{
@@ -320,10 +320,13 @@ width: 25%;
         width: 65%;
         border: none;
     }
-    .box1{
-        width: 90%;
-        border-bottom: .5px solid black;
-        
+    .box{
+        width: 100%;
+        margin-left: 45%;
+        font-size: 10px;   
+    }
+    .box h1{
+        font-size: 45px;
     }
     .box2{
         display: none;
