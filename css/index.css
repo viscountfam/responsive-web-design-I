@@ -255,6 +255,10 @@ width: 25%;
         justify-content: space-around;
         align-items: center;
         flex-wrap: wrap-reverse;
+        margin-left: 18%;
+    }
+    nav a{
+        padding: 2% 2%;
     }
     .innovation-section{
         display: flex;
